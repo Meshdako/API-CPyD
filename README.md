@@ -1,6 +1,6 @@
 # API-CPyD
 
-Soy una prueba
+Trabajo Grupal API-Rest CPyD
 
 ## Integrantes
 * Martín Sobarzo
